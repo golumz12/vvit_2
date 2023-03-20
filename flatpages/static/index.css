@@ -11,7 +11,7 @@ p, h4 {
     margin-bottom: 0;
 }
 h4 {
-    font-size: 14px; 
+    font-size: 38px; 
 }
 ul, ol {
     margin: 0;
@@ -26,4 +26,8 @@ table {
 img {
 	height: 30px;
 	width: auto;
+}
+
+h1 {
+   font-family: Tahoma, Arial, serif;
 }
